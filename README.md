@@ -1,4 +1,7 @@
 # Welcome!
+#### The repository contains:
+- Raw data to create my figures.
+- R scripts to create said figures.
 
-
-### This repository contains data for my 4th year undergraduate dissertation in Ecological and Environmental Sciences at The University of Edinburgh.
+##### By Lynsey Thomson, 4th year Ecological and Environmental Sciences student at The University of Edinburgh. 
+##### contact: s1745313@ed.ac.uk
